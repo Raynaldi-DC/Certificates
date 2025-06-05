@@ -6,6 +6,8 @@ This repository contains a collection of my certificates that showcase my compet
  - SQL [(click to navigate)](https://github.com/Raynaldi-DC/Certificates/edit/main/README.md#sql)  
  - Others [(click to navigate)](https://github.com/Raynaldi-DC/Certificates/edit/main/README.md#others)
 
+If you would like to see my complete collection of certificates, including those from events and seminars, you can visit this [Google Drive folder](https://drive.google.com/drive/folders/17z1lHjwYIbUeiycSPAZ9ct-hGOag0g8v).
+
 ## Cloud Computing
 **Google Cloud Data Analytic**  
 Issued By : Google  
@@ -102,3 +104,6 @@ Issued By : Budi Luhur University
 <div align="center">
 <img src="assets/certificate-Google-Cloud_Data_Analytics.png" height="400">
 </div>
+
+## Navigation
+[| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates ](https://github.com/Raynaldi-DC/Certificates)[| Portofolio |](https://github.com/Raynaldi-DC/Portofolio)
