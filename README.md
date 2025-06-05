@@ -1,10 +1,10 @@
 # 📜 Certificates
 This repository contains a collection of my certificates that showcase my competencies across various fields. The certificates displayed are obtained from training sessions and examinations. The categories of certificates can be viewed as follows:  
- - Cloud Computing [(click to navigate)](https://github.com/Raynaldi-DC/Certificates/edit/main/README.md#cloud-computing)  
- - Python [(click to navigate)](https://github.com/Raynaldi-DC/Certificates/edit/main/README.md#python)  
- - R [(click to navigate)](https://github.com/Raynaldi-DC/Certificates/edit/main/README.md#r)  
- - SQL [(click to navigate)](https://github.com/Raynaldi-DC/Certificates/edit/main/README.md#sql)  
- - Others [(click to navigate)](https://github.com/Raynaldi-DC/Certificates/edit/main/README.md#others)
+ - Cloud Computing [(click to navigate)](https://github.com/Raynaldi-DC/Certificates?tab=readme-ov-file#cloud-computing)  
+ - Python [(click to navigate)](https://github.com/Raynaldi-DC/Certificates?tab=readme-ov-file#python)  
+ - R [(click to navigate)](https://github.com/Raynaldi-DC/Certificates?tab=readme-ov-file#r)  
+ - SQL [(click to navigate)](https://github.com/Raynaldi-DC/Certificates?tab=readme-ov-file#sql)  
+ - Others [(click to navigate)](https://github.com/Raynaldi-DC/Certificates?tab=readme-ov-file#others)
 
 If you would like to see my complete collection of certificates, including those from events and seminars, you can visit this [Google Drive folder](https://drive.google.com/drive/folders/17z1lHjwYIbUeiycSPAZ9ct-hGOag0g8v).
 
