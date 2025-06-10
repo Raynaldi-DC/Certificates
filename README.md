@@ -164,4 +164,4 @@ Issued By : EF
 <br>
 
 ## Navigation
-[| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates ](https://github.com/Raynaldi-DC/Certificates)[| Portofolio |](https://github.com/Raynaldi-DC/Portofolio)
+[| Main Menu ](https://github.com/Raynaldi-DC)[| Resume ](https://github.com/Raynaldi-DC/Resume)[| Certificates ](https://github.com/Raynaldi-DC/Certificates)[| Portofolio |](https://github.com/Raynaldi-DC/Portfolio)
