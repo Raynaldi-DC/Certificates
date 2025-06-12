@@ -8,7 +8,7 @@ This repository contains a collection of my certificates that showcase my compet
 
 If you would like to see my complete collection of certificates, including those from events and seminars, you can visit this [Google Drive folder](https://drive.google.com/drive/folders/17z1lHjwYIbUeiycSPAZ9ct-hGOag0g8v).
 
-## Cloud Computing
+## ☁️ Cloud Computing
 **Google Cloud Data Analytic**  
 Issued By : Google  
 #Note : This is a digital certificate [(click link for full details)](https://www.credly.com/badges/5f880c70-13ff-4d85-b08a-c43e1ed12d5c/public_url).
@@ -18,16 +18,7 @@ Issued By : Google
 </div>
 <br>
 
-**Google Cloud Computing**  
-Issued By : Google  
-#Note : This is a digital certificate [(click link for full details)](https://www.credly.com/badges/5f880c70-13ff-4d85-b08a-c43e1ed12d5c/public_url).
-
-<div align="center">
-<img src="assets/certificate-Google_Cloud-Data_Analytics.png" height="400">
-</div>
-<br>
-
-## Python
+## 🐍 Python
 **Python Statistic**  
 Issued By : DQLab  
 #Note : Consists of 2 parts
@@ -74,7 +65,7 @@ Issued By : DQLab
 </div>
 <br>
 
-## R
+## 📊 R
 **R Data Preparation**  
 Issued By : DQLab
 
@@ -109,7 +100,7 @@ Issued By : DQLab
 </div>
 <br>
 
-## SQL
+## 🛢️SQL
 **SQL Fundamental**  
 Issued By : DQLab
 
@@ -118,7 +109,7 @@ Issued By : DQLab
 </div>
 <br>
 
-## Others
+## 🧰 Others
 **Data Analysis and Visualization**  
 Issued By : Kominfo (Indonesia Ministry of Information and Communication)
 
